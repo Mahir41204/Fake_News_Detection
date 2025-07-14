@@ -203,6 +203,17 @@ We welcome contributions to improve the user experience! Here are some areas whe
 
 ---
 
+**Built with ❤️ for a more informed digital world**
+
+
+
+
+
+
+
+
+
+
 ## Demo Screenshots
 
 ### Home Page
@@ -213,5 +224,3 @@ We welcome contributions to improve the user experience! Here are some areas whe
 
 ### Analysis Example 2
 ![Analysis Example 2](frontend/public/screenshot3.png)
-
-**Built with ❤️ for a more informed digital world**
