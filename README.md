@@ -192,9 +192,6 @@ We welcome contributions to improve the user experience! Here are some areas whe
 - **Source Analysis**: Expanded domain reputation database
 - **Accessibility**: Better support for users with disabilities
 
-## 📄 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## 🙏 Acknowledgments
 
@@ -205,5 +202,16 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - Tailwind CSS for styling
 
 ---
+
+## Demo Screenshots
+
+### Home Page
+![Home Page](screenshots/screenshot1.png)
+
+### Analysis Example 1
+![Analysis Example 1](screenshots/screenshot2.png)
+
+### Analysis Example 2
+![Analysis Example 2](screenshots/screenshot3.png)
 
 **Built with ❤️ for a more informed digital world**
