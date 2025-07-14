@@ -206,12 +206,12 @@ We welcome contributions to improve the user experience! Here are some areas whe
 ## Demo Screenshots
 
 ### Home Page
-![Home Page](screenshots/screenshot1.png)
+![Home Page](frontend/public/screenshot1.png)
 
 ### Analysis Example 1
-![Analysis Example 1](screenshots/screenshot2.png)
+![Analysis Example 1](frontend/public/screenshot2.png)
 
 ### Analysis Example 2
-![Analysis Example 2](screenshots/screenshot3.png)
+![Analysis Example 2](frontend/public/screenshot3.png)
 
 **Built with ❤️ for a more informed digital world**
